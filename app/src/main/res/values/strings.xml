@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login&amp;Register</string>
+
+    <string-array name="anggota">
+        <item>Ahmad Ihsan M</item>
+        <item>Althasf</item>
+        <item>Arya</item>
+        <item>Dzaki</item>
+        <item>Farel</item>
+        <item>Irsyad</item>
+        <item>Khairi</item>
+        <item>Acha</item>
+        <item>Ilal</item>
+        <item>Nabih</item>
+        <item>Wildan</item>
+    </string-array>
+</resources>
